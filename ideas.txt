@@ -1,0 +1,6 @@
+Ideas for different Projects
+
+N-Queens problem
+Satisfiability problem
+Word Search
+Wumpus World
