@@ -125,7 +125,7 @@ public class Backtracking {
 	}
 
 	public static void main(String[] args) {
-		int queens = 50;
+		int queens = 8;
 		Backtracking bt = new Backtracking(queens);
 		bt.run();
 	}
