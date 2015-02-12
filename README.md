@@ -5,3 +5,4 @@ Random examples of AI problems we want to try
 * Sudoku Solver
 * NQueens
   * Backtracking
+  * MinConflict
