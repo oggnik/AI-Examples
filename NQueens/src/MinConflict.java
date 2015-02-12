@@ -19,7 +19,7 @@ public class MinConflict {
 	}
 	
 	/**
-	 * Run the backtracking algorithm
+	 * Run the minconflict algorithm
 	 */
 	public void run() {
 		long startTime = System.currentTimeMillis();
